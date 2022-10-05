@@ -9,5 +9,9 @@
 ## Experiment 5: https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day1%20LAB/8-Bit_Mul<br/>
 > Output : <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/194116944-a84b1e11-5ba3-4732-ade9-5d0621c63f62.png)<br/>
+## Experiment 6: https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day1%20LAB/8-Bit_Div<br/>
+> Output : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194119918-aa7f0966-9cb1-4c4c-963a-7caf2b795c66.png)<br/>
+
 
 
