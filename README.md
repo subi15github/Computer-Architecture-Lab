@@ -37,6 +37,10 @@
 ## Experiment 12 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/N_Factorial<br/>
 > Output : <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/194133382-6a9c6c42-23c2-456f-af05-6514276d39e0.png)<br/>
+## Experiment 13 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/Array_largest_no<br/>
+> Output : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194136614-bd50dd2c-839d-4269-9966-e6c8c8ee11c4.png)<br/>
+
 
 
 
