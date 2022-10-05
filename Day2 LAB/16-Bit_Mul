@@ -1,1 +1,7 @@
-SD
+;16-Bit Multiplication 
+start:
+MOV CX,0X5
+MOV BX,0X3
+MOV AX,CX
+MUL BX
+HLT
