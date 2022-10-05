@@ -1,1 +1,16 @@
-
+;Largest Number in an Array
+LXI H,2000
+MOV C,M
+INX H
+MOV B,M
+DCR C
+LOOP: INX H
+MOV A,M
+CMP B
+JC SKIP
+MOV B,A
+SKIP: DCR C
+JNZ LOOP
+LXI H,2010
+MOV M,B
+HLT
