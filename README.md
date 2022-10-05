@@ -18,6 +18,26 @@
 ## Experiment 6: https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day1%20LAB/8-Bit_Div<br/>
 > Output : <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/194119918-aa7f0966-9cb1-4c4c-963a-7caf2b795c66.png)<br/>
+## Day-2 LAB : https://github.com/subi15github/Computer-Architecture-Lab/tree/main/Day2%20LAB<br/>
+## Experiment 7 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/16-Bit_Mul<br/>
+> Output : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194132198-50d38d4a-98f8-49b1-abba-c403894b907d.png)<br/>
+## Experiment 8 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/16-Bit_Div<br/>
+> Output : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194131953-06769b3b-02d6-4641-8022-97a6cc9e746d.png)<br/>
+## Experiment 9 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/exp_9_HA.circ<br/>
+> Output : <br/>
+> ![2_BIT_HA](https://user-images.githubusercontent.com/113248863/194132350-c241be85-2bd6-4723-a8e5-6f69027cfbb6.png)<br/>
+## Experiment 10 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/exp_10_FA.circ<br/>
+> Output : <br/>
+> ![3_BIT_FULL_ADDER](https://user-images.githubusercontent.com/113248863/194132460-9cf773a4-dc9d-4cfa-a249-91fe26446f8f.png)<br/>
+## Experiment 11 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/exp_11_HA_NAND.circ<br/>
+> Output : <br/>
+> ![2_BIT_HA_NAND](https://user-images.githubusercontent.com/113248863/194132608-f37a146e-a97b-44d6-9b04-9e4c7c2146be.png)<br/>
+## Experiment 12 : <br/>
+> Output : <br/>
+> 
+
 
 
 
