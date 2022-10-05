@@ -1,0 +1,14 @@
+;8-Bit Multiplication of two numbers
+LDA 1000
+MOV B,A
+LDA 1001
+MOV C,A
+CPI 00
+JZ LOOP
+XRA A
+LOOP1: ADD B
+DCR C
+JZ LOOP
+JMP LOOP1
+LOOP: STA 1002
+HLT
