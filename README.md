@@ -34,9 +34,10 @@
 ## Experiment 11 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/exp_11_HA_NAND.circ<br/>
 > Output : <br/>
 > ![2_BIT_HA_NAND](https://user-images.githubusercontent.com/113248863/194132608-f37a146e-a97b-44d6-9b04-9e4c7c2146be.png)<br/>
-## Experiment 12 : <br/>
+## Experiment 12 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/N_Factorial<br/>
 > Output : <br/>
-> 
+> ![image](https://user-images.githubusercontent.com/113248863/194133382-6a9c6c42-23c2-456f-af05-6514276d39e0.png)<br/>
+
 
 
 
