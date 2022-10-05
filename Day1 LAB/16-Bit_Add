@@ -1,1 +1,7 @@
-
+;16-Bit Addition 
+start:
+MOV CX,0X5
+MOV BX,0X3
+MOV AX,CX
+ADD AX,BX
+HLT
