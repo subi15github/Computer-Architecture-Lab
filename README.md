@@ -56,6 +56,9 @@
 ## Experiment 24 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/Exp_24.py<br/>
 > Output : <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/194609430-dc7bf4df-6ce5-4f83-aac8-f80c6d401c1c.png)<br/>
+## Experiment 25 : <br/>
+> Output : <br/>
+> <br/>
 
 
 
