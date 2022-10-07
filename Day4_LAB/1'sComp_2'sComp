@@ -1,0 +1,7 @@
+;1's and 2's complement of 8-bit number
+LDA 3000
+CMA 
+STA 3001
+ADI 01
+STA 3002
+HLT
