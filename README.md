@@ -58,7 +58,11 @@
 > ![image](https://user-images.githubusercontent.com/113248863/194609430-dc7bf4df-6ce5-4f83-aac8-f80c6d401c1c.png)<br/>
 ## Experiment 25 : <br/>
 > Output : <br/>
-> <br/>
+> Before Swapping : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194611462-a794023d-f91a-4914-a304-40a59e287559.png)<br/>
+> After Swapping : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194611618-61fe3293-7f81-4ce4-9cf7-d5e7a7b57678.png)<br/>
+
 
 
 
