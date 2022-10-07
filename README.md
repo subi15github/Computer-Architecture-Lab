@@ -56,7 +56,7 @@
 ## Experiment 24 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/Exp_24.py<br/>
 > Output : <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/194609430-dc7bf4df-6ce5-4f83-aac8-f80c6d401c1c.png)<br/>
-## Experiment 25 : <br/>
+## Experiment 25 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/1'sComp_2'sComp<br/>
 > Output : <br/>
 > Before Swapping : <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/194611462-a794023d-f91a-4914-a304-40a59e287559.png)<br/>
