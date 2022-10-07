@@ -47,7 +47,18 @@
 ## Experiment 21 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/Exp_21.py<br/>
 > Output : <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/194605673-c2d84d8d-2eac-482b-a7b0-8dd564241aa7.png)<br/>
-## Experiment 22 : 
+## Experiment 22 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/Exp_22.py<br/>
+> Output : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194606908-4594022f-b13b-4f44-bd16-54be47714acb.png)<br/>
+## Experiment 23 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/Exp_23.py<br/>
+> Output : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194608111-20fddc48-69ec-48ec-8941-15d047db797f.png)<br/>
+## Experiment 24 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/Exp_24.py<br/>
+> Output : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194609430-dc7bf4df-6ce5-4f83-aac8-f80c6d401c1c.png)<br/>
+
+
+
 
 
 
