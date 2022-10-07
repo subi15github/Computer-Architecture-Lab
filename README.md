@@ -40,6 +40,11 @@
 ## Experiment 13 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day2%20LAB/Array_largest_no<br/>
 > Output : <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/194136614-bd50dd2c-839d-4269-9966-e6c8c8ee11c4.png)<br/>
+## Day-4 LAB : https://github.com/subi15github/Computer-Architecture-Lab/tree/main/Day4_LAB<br/>
+## Experiment 20 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/1'sComp_2'sComp<br/>
+> Output : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194605140-4ff0c3bc-f14c-4a41-8ce6-d496714eab92.png)<br/>
+
 
 
 
