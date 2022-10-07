@@ -44,6 +44,11 @@
 ## Experiment 20 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/1'sComp_2'sComp<br/>
 > Output : <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/194605140-4ff0c3bc-f14c-4a41-8ce6-d496714eab92.png)<br/>
+## Experiment 21 : https://github.com/subi15github/Computer-Architecture-Lab/blob/main/Day4_LAB/Exp_21.py<br/>
+> Output : <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/194605673-c2d84d8d-2eac-482b-a7b0-8dd564241aa7.png)<br/>
+## Experiment 22 : 
+
 
 
 
